@@ -16,17 +16,17 @@ FESN DNE API
 
 
 
-API que realiza consulta de Documento Nacional do Estudante (DNE) emitido pela Federação dos Estudantes Nacional (FESN).
+API que realiza consulta do Documento Nacional do Estudante (DNE) emitido pela Federação dos Estudantes Nacional (FESN).
 
 
 * Free software: MIT license
-* Documentation: https://fesn-dne-api.readthedocs.io.
+* Documentation: https://fesn-dne-api.renanalencar.repl.co/docs
 
 
 Features
 --------
 
-* TODO
+* Validação da Carteira de Identificação Estudantil (CIE) emitada pela Federação Nacional dos Estudantes
 
 Credits
 -------
