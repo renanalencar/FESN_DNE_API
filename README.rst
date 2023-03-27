@@ -21,6 +21,7 @@ API que realiza consulta do Documento Nacional do Estudante (DNE) emitido pela F
 
 * Free software: MIT license
 * Documentation: https://fesn-dne-api.renanalencar.repl.co/docs
+* Postman: https://elements.getpostman.com/redirect?entityId=3394526-1b2403ae-c2a3-44ac-b65e-2ab999fc3b1f&entityType=collection
 
 
 Features
